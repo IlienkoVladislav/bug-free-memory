@@ -1,0 +1,15 @@
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\bin\Debug\net8.0\Task_31.exe
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\bin\Debug\net8.0\Task_31.deps.json
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\bin\Debug\net8.0\Task_31.runtimeconfig.json
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\bin\Debug\net8.0\Task_31.dll
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\bin\Debug\net8.0\Task_31.pdb
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.AssemblyInfoInputs.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.AssemblyInfo.cs
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.csproj.CoreCompileInputs.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.sourcelink.json
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.dll
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\refint\Task_31.dll
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.pdb
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\Task_31.genruntimeconfig.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Exam\Task_31\obj\Debug\net8.0\ref\Task_31.dll
